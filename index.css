@@ -1,0 +1,25 @@
+body {
+    color: black;
+    font-family: Verdana;
+    margin: 50px;
+    background-image: linear-gradient(grey,white);
+}
+
+textarea {
+    width: 500px;
+    height: 150px;
+}
+
+.judul {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.garis {
+    border: 1px solid #1b2736;
+    margin: 20px 0;
+    padding: 0 20px;
+    box-shadow: 5px 5px black;
+    border-radius: 5px;
+}
